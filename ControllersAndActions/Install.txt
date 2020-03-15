@@ -1,0 +1,2 @@
+﻿1. 安装mvc到UrlsAndRoutes.Tests项目
+Install-Package Microsoft.Aspnet.Mvc -version 5.0.0 -projectname UrlsAndRoutes.Tests
