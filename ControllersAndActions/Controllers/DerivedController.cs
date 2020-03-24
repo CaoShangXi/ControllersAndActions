@@ -13,6 +13,7 @@ namespace ControllersAndActions.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Hello from the DerivedController Index method";
+            ViewBag.Date = "2020-03-22";
             return View("MyView");
         }
         public ActionResult ProduceOutput()
